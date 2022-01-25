@@ -1,5 +1,9 @@
 # Mail System Project
 > Codes are confidential to the University.
+### Skill level
+**UXUI** - Normal
+
+**Coding** - Medium
 ## Tech Stack
 > Flask for API routes
 
